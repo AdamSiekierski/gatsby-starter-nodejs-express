@@ -4866,6 +4866,11 @@ gatsby-page-utils@^0.2.12:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
+gatsby-plugin-nodejs@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-nodejs/-/gatsby-plugin-nodejs-0.6.0.tgz#bfdb1030d0fbfbcf04deef31cecea688ef1f5c1d"
+  integrity sha512-x0Onp+eJQ1gbIYq+0ehgRqa7aHj4Iw2Zu6rbS5dXPKdeH3c4+VjvW9rSl9B2M62jlsmgtNVdfoUAQxcUHkX1vg==
+
 gatsby-plugin-page-creator@^2.3.12:
   version "2.3.12"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-2.3.12.tgz#de4c42dfe96022603350a26cce71afb966eb7a1d"
