@@ -17,6 +17,13 @@
 5. To create the production build, run `gatsby build` and next, to run the server, just use `npm start`.
 6. For more info about using `gatsby-plugin-nodejs`, refer to its [documentation](https://github.com/AdamSiekierski/gatsby-plugin-nodejs#readme).
 
+### Demo
+
+You can check out the demo at https://gatsby-starter-nodejs-express.herokuapp.com/. The starter has 2 routes built in:
+
+- [/](https://gatsby-starter-nodejs-express.herokuapp.com/) - index.html file built by Gatsby from `src/pages/index.js` file
+- [/api/v1/](https://gatsby-starter-nodejs-express.herokuapp.com/api/v1) - route served by Express, returns simple "hello world!". You can find the source in `server/index.js`
+
 ### Credits 👥
 
 - Gatsby https://gatsbyjs.org
